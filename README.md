@@ -1,15 +1,14 @@
 # comparacion-planes-NLP
 Proyecto enfocado en la comparación semántica de planes docentes usando herramientas **NLP** (Natural Language Processing), la gestión de los datos se realiza mediante un enfoque de **Linked Data** (recursos RDF). En cuanto al diseño arquitectónico de la aplicación se ha planteado un enfoque orientado a **Microservicios** (MS).
 
-#### Estado: En desarrollo
+#### Ubicación: Universidad Técnica Particular de Loja (UTPL) - Loja - Ecuador
 
 #### Responsables
 * Nelson Piedra Pullaguari ([nopiedra@utpl.edu.ec](nopiedra@utpl.edu.ec)) 
 * Lady Yaguachi Pereira ([leyaguachi1@utpl.edu.ec](leyaguachi1@utpl.edu.ec)) 
 * Alexander Sánchez Narváez ([ajsanchez9@utpl.edu.ec](ajsanchez9@utpl.edu.ec)) 
 
-#### Ubicación
-Universidad Técnica Particular de Loja (UTPL) - Loja - Ecuador
+#### Estado: En desarrollo
 
 ## Tareas realizadas
 
@@ -21,12 +20,12 @@ Para diseñar la arquitectura de microservicios de la aplicación NLP se tuvo en
 * Tareas NLP: Pre-procesamiento, Análisis Morfológico, Sintáctico y Semántico.
 * Naturaleza de los microservicios: En una arquitectura de microservicios se considera funcionalidades en lugar de módulos, dichas funcionalidades se exponen y representan como servicios que se comunican entre sí mediante mecanismos ligeros (HTTP).
 
-![Arquitectura MS para aplicación NLP](https://drive.google.com/file/d/1lrSRSVzOvMeWanWopgfC4feaENMzg6rF/view)
+![Arquitectura MS para aplicación NLP](https://github.com/ladyy27/comparacion-planes-NLP/blob/master/files/NLPArchitecture.png)
 
 ### Ontología:
-Referente a Web semántica, se construyó una ontología que contemple las clases y propiedades a usarse en el prototipo final. La ontología sirve como base para la generación de las tripletas para los resultados obtenidos de la fase de Preprocesamiento y de Análisis Morfológico:[Spacy(Python)](https://spacy.io/usage/linguistic-features), [CoreNLP](https://stanfordnlp.github.io/CoreNLP/) y guardar los resultados en formato RDF (tripletas): [rdflib (Python)](https://github.com/RDFLib/rdflib), [Apache Jena](https://jena.apache.org/tutorials/rdf_api.html).
+Referente a Web semántica, se construyó una ontología que contemple las clases y propiedades a usarse en el prototipo final. La ontología sirve como base para la generación de las tripletas para los resultados obtenidos de la fase de Preprocesamiento y de Análisis Morfológico: [Spacy(Python)](https://spacy.io/usage/linguistic-features), [CoreNLP](https://stanfordnlp.github.io/CoreNLP/) y guardar los resultados en formato RDF (tripletas): [rdflib (Python)](https://github.com/RDFLib/rdflib), [Apache Jena](https://jena.apache.org/tutorials/rdf_api.html).
 
-![Ontologia Planes Docentes](https://drive.google.com/file/d/1tQTUceQet2OP6eAcNlNkUKI0m0TkIoQz/view?usp=sharing)
+![Ontologia Planes Docentes](https://github.com/ladyy27/comparacion-planes-NLP/blob/master/files/NLP_Ontology_Unified.png)
 
 ### Analisis de similitud:
 * #### Pre-proceso:
@@ -41,7 +40,7 @@ _Cálculo I VS Cálculo, Score = 100 % similitud_
 4. El score general es resultado del promedio entre el score del título y el de tópicos.
 Herramientas utilizadas: [ADW Semantic Similarity (Java)](http://lcl.uniroma1.it/adw/), [Spacy Similarity (Python)](https://spacy.io/usage/vectors-similarity), Modelo de distancia entre niveles (planteado por los responsables del proyecto)
 
-![Proceso de comparación semántica](https://drive.google.com/open?id=1-VQZB1h6k_VUAjhJLmB9sY86MsKEjsC5)
+![Proceso de comparación semántica](https://github.com/ladyy27/comparacion-planes-NLP/blob/master/files/ComparisonProtocol.png)
 
 ### Clustering:
 Se ha propuesto usar como medida de similitud la clasificación de títulos y tópicos de planes obtenida mediante la aplicación de algoritmos de clusterización: **Hierarchy, K-means y Affinity Propagation**. Herramientas utilizadas: [Scipy](https://docs.scipy.org/doc/scipy/reference/cluster.hierarchy.html), [Sckit Learn](http://scikit-learn.org/stable/modules/generated/sklearn.cluster.AffinityPropagation.html).
