@@ -1,0 +1,329 @@
+1000;"Multidisciplinary";0.0;http://skos.um.es/unesco6/550399;Other (specify)
+1100;"General Agricultural and Biological Sciences";0.7638829106031433;http://skos.um.es/unesco6/31;Agricultural Sciences
+1101;"Agricultural and Biological Sciences (miscellaneous)";0.7691452634679259;http://skos.um.es/unesco6/31;Agricultural Sciences
+1102;"Agronomy and Crop Science";0.8653940951634767;http://skos.um.es/unesco6/3103;Agronomy 
+1103;"Animal Science and Zoology";0.7755751866150836;http://skos.um.es/unesco6/2401;Animal biology (Zoology) 
+1104;"Aquatic Science";0.7231813121337687;http://skos.um.es/unesco6/2511;Soil Science (Soil Science) 
+1105;"Ecology";0.8043205856115064;http://skos.um.es/unesco6/240106;Animal ecology
+1106;"Food Science";0.7781047575787392;http://skos.um.es/unesco6/320608;Nutrients
+1107;"Forestry";1.0000000000000044;http://skos.um.es/unesco6/3106;Forestry 
+1108;"Horticulture";1.0000000000000024;http://skos.um.es/unesco6/3107;Horticulture
+1109;"Insect Science";0.7724223207502605;http://skos.um.es/unesco6/24;Life Sciences
+1110;"Plant Science";0.7496055091039161;http://skos.um.es/unesco6/241717;Plant nutrition
+1111;"Soil Science";1.0000000000000084;http://skos.um.es/unesco6/2511;Soil Science (Soil Science) 
+1200;"General Arts and Humanities";0.628658325079709;http://skos.um.es/unesco6/620305;Fine art aesthetics
+1201;"Arts and Humanities (miscellaneous)";0.6277232595501359;http://skos.um.es/unesco6/620305;Fine art aesthetics
+1202;"History";1.0000000000000024;http://skos.um.es/unesco6/55;History
+1203;"Language and Linguistics";0.8722006845023803;http://skos.um.es/unesco6/550510;Philology 
+1204;"Archaeology";1.0000000000000042;http://skos.um.es/unesco6/550501;Archaeology
+1205;"Classics";0.4919099911375904;http://skos.um.es/unesco6/620307;Painting
+1206;"Conservation";1.000000000000002;http://skos.um.es/unesco6/310601;Conservation
+1207;"History and Philosophy of Science";0.881175716383761;http://skos.um.es/unesco6/550622;History of science
+1208;"Literature and Literary Theory";0.7226262503254658;http://skos.um.es/unesco6/6202;Literary theory, analysis and criticism
+1209;"Museology";0.0;http://skos.um.es/unesco6/550399;Other (specify)
+1210;"Music";0.7789793521676649;http://skos.um.es/unesco6/620306;Music, musicology 
+1211;"Philosophy";1.0000000000000058;http://skos.um.es/unesco6/72;Philosophy
+1212;"Religious studies";0.740178896677426;http://skos.um.es/unesco6/221204;Fields
+1213;"Visual Arts and Performing Arts";0.5670792405757519;http://skos.um.es/unesco6/221124;Optical properties
+1300;"General Biochemistry";0.7714377052957874;http://skos.um.es/unesco6/2302;Biochemistry
+1301;"Biochemistry;1.000000000000004;http://skos.um.es/unesco6/2302;Biochemistry
+1302;"Ageing";0.7909951164642415;http://skos.um.es/unesco6/240215;Somatic ageing
+1303;"Biochemistry";1.000000000000004;http://skos.um.es/unesco6/2302;Biochemistry
+1304;"Biophysics";0.0;http://skos.um.es/unesco6/550399;Other (specify)
+1305;"Biotechnology";0.737360499450317;http://skos.um.es/unesco6/241501;Molecular biology of microorganisms
+1306;"Cancer Research";0.7017485540775312;http://skos.um.es/unesco6/520201;Methodology of research
+1307;"Cell Biology";1.0000000000000078;http://skos.um.es/unesco6/2407;Cell biology
+1308;"Clinical Biochemistry";0.7251825607666534;http://skos.um.es/unesco6/230207;Clinical chemistry
+1309;"Developmental Biology";0.7048852269730547;http://skos.um.es/unesco6/2407;Cell biology
+1310;"Endocrinology";1.0000000000000009;http://skos.um.es/unesco6/320502;Endocrinology
+1311;"Genetics";1.0000000000000044;http://skos.um.es/unesco6/2409;Genetics 
+1312;"Molecular Biology";1.0000000000000024;http://skos.um.es/unesco6/230221;Molecular biology
+1313;"Molecular Medicine";0.7606539950378586;http://skos.um.es/unesco6/3204;Occupational medicine
+1314;"Physiology";1.000000000000004;http://skos.um.es/unesco6/241103;Cardio-vascular physiology
+1315;"Structural Biology";0.756924163528971;http://skos.um.es/unesco6/2407;Cell biology
+1400;"General Business";0.6595607963303289;http://skos.um.es/unesco6/5202;General demography
+1401;"Business;0.7532530481939281;http://skos.um.es/unesco6/310508;Game
+1402;"Accounting";1.0000000000000062;http://skos.um.es/unesco6/120301;Accounting
+1403;"Business and International Management";0.858173065872965;http://skos.um.es/unesco6/531004;International business
+1404;"Management Information Systems";0.7551581780646544;http://skos.um.es/unesco6/580202;Educational institutions; organization and management
+1405;"Management of Technology and Innovation";0.6747367572556487;http://skos.um.es/unesco6/530602;Technological innovation
+1406;"Marketing";1.000000000000006;http://skos.um.es/unesco6/531105;Marketing
+1407;"Organizational Behavior and Human Resource Management";0.7490327136997379;http://skos.um.es/unesco6/610905;Organizational behaviour
+1408;"Strategy and Management";0.733432690252246;http://skos.um.es/unesco6/310604;Management
+1409;"Tourism";1.0000000000000053;http://skos.um.es/unesco6/531290;Tourism
+1410;"Industrial relations";0.733604538916882;http://skos.um.es/unesco6/330311;Industrial chemistry
+1500;"General Chemical Engineering";0.7025835786400089;http://skos.um.es/unesco6/5202;General demography
+1501;"Chemical Engineering (miscellaneous)";0.5053104011748626;http://skos.um.es/unesco6/330517;Industrial and commercial buildings
+1502;"Bioengineering";0.5825990956503642;http://skos.um.es/unesco6/331102;Control engineering
+1503;"Catalysis";1.000000000000005;http://skos.um.es/unesco6/221001;Catalysis
+1504;"Chemical Health and Safety";0.6063227621885405;http://skos.um.es/unesco6/531207;Health
+1505;"Colloid and Surface Chemistry";0.9445062342685258;http://skos.um.es/unesco6/221004;Colloids chemistry
+1506;"Filtration and Separation";0.7809535307781114;http://skos.um.es/unesco6/332810;Filtration
+1507;"Fluid Flow and Transfer Processes";0.7367054360788764;http://skos.um.es/unesco6/220403;Fluid flow
+1508;"Process Chemistry and Technology";0.7134211081015116;http://skos.um.es/unesco6/331005;Processing engineering
+1600;"General Chemistry";0.6927946522368114;http://skos.um.es/unesco6/23;Chemistry
+1601;"Chemistry (miscellaneous)";0.7329928707041664;http://skos.um.es/unesco6/23;Chemistry
+1602;"Analytical Chemistry";1.000000000000005;http://skos.um.es/unesco6/2301;Analytical Chemistry
+1603;"Electrochemistry";1.0000000000000058;http://skos.um.es/unesco6/221005;Electrochemistry
+1604;"Inorganic Chemistry";0.999999999999999;http://skos.um.es/unesco6/2303;Inorganic chemistry 
+1605;"Organic Chemistry";1.0000000000000042;http://skos.um.es/unesco6/2306;Organic Chemistry 
+1606;"Physical and Theoretical Chemistry";0.6498440824993342;http://skos.um.es/unesco6/229001;Theoretical high energy physics
+1607;"Spectroscopy";1.000000000000005;http://skos.um.es/unesco6/210303;Spectroscopy
+1700;"General Computer Science";0.7469935514784702;http://skos.um.es/unesco6/1103;General Logic
+1701;"Computer Science (miscellaneous)";0.6220123221455589;http://skos.um.es/unesco6/120313;Digital computing
+1702;"Artificial Intelligence";1.0000000000000042;http://skos.um.es/unesco6/120304;Artificial Intelligence
+1703;"Computational Theory and Mathematics";0.6806814561135213;http://skos.um.es/unesco6/120111;Matrix theory
+1704;"Computer Graphics and Computer-Aided Design";0.49374029269667696;http://skos.um.es/unesco6/120311;Computer software
+1705;"Computer Networks and Communications";0.7435580724982095;http://skos.um.es/unesco6/1210;Topology
+1706;"Computer Science Applications";0.8124170078716767;http://skos.um.es/unesco6/1101;Applications of logic
+1707;"Computer Vision and Pattern Recognition";0.6345946306498953;http://skos.um.es/unesco6/330411;Computing systems design
+1708;"Hardware and Architecture";0.9132485418752887;http://skos.um.es/unesco6/330406;Computer architecture 
+1709;"Human-Computer Interaction";1.000000000000004;http://skos.um.es/unesco6/250103;Air-sea interaction 
+1710;"Information Systems";0.8201897889609759;http://skos.um.es/unesco6/110205;Formal systems
+1711;"Signal Processing";0.7267265421891238;http://skos.um.es/unesco6/630801;Signs
+1712;"Software";1.0000000000000042;http://skos.um.es/unesco6/120311;Computer software
+1800;"General Decision Sciences";0.6630153556450101;http://skos.um.es/unesco6/5902;Policy sciences 
+1801;"Decision Sciences (miscellaneous)";0.6421586723257533;http://skos.um.es/unesco6/24;Life Sciences
+1802;"Information Systems and Management";0.7551582048395714;http://skos.um.es/unesco6/580202;Educational institutions; organization and management
+1803;"Management Science and Operations Research";0.6966490553014726;http://skos.um.es/unesco6/53;Economic Sciences
+1804;"Statistics";1.0000000000000018;http://skos.um.es/unesco6/1209;Statistics
+1900;"General Earth and Planetary Sciences";0.710938425929556;http://skos.um.es/unesco6/25;Earth and Space Sciences
+1901;"Earth and Planetary Sciences (miscellaneous)";0.7194704276392024;http://skos.um.es/unesco6/25;Earth and Space Sciences
+1902;"Atmospheric Science";1.0000000000000078;http://skos.um.es/unesco6/2501;Atmospheric sciences 
+1903;"Computers in Earth Sciences";0.8575917710733205;http://skos.um.es/unesco6/1203;Computer Sciences
+1904;"Earth-Surface Processes";1.0000000000000047;http://skos.um.es/unesco6/251006;Ocean-bottom processes 
+1905;"Economic Geology";0.6582633221289934;http://skos.um.es/unesco6/250620;Structural geology
+1906;"Geochemistry and Petrology";0.7976954907731689;http://skos.um.es/unesco6/2503;Geochemistry
+1907;"Geology";1.0000000000000004;http://skos.um.es/unesco6/2506;Geology
+1908;"Geophysics";1.000000000000002;http://skos.um.es/unesco6/2507;Geophysics
+1909;"Geotechnical Engineering and Engineering Geology";1.0000000000000044;http://skos.um.es/unesco6/250603;Engineering geology
+1910;"Oceanography";1.0000000000000062;http://skos.um.es/unesco6/2510;Oceanography
+1911;"Palaeontology";1.0000000000000027;http://skos.um.es/unesco6/2416;Palaeontology
+1912;"Space and Planetary Science";0.8300902158017289;http://skos.um.es/unesco6/2512;Science space (2104 2102 3324)
+1913;"Stratigraphy";1.0000000000000042;http://skos.um.es/unesco6/250619;Stratigraphy 
+2000;"General Economics";1.000000000000005;http://skos.um.es/unesco6/5308;General economics
+2001;"Economics;0.7828030865096973;http://skos.um.es/unesco6/5310;International economics
+2002;"Economics and Econometrics";0.7409066457752415;http://skos.um.es/unesco6/5302;Econometrics
+2003;"Finance";0.8044206438017628;http://skos.um.es/unesco6/531206;Finance and insurance
+2100;"General Energy";0.7427407406921637;http://skos.um.es/unesco6/531205;Energy 
+2101;"Energy (miscellaneous)";0.7834011812256271;http://skos.um.es/unesco6/531205;Energy 
+2102;"Energy Engineering and Power Technology";0.8356659824135044;http://skos.um.es/unesco6/3322;Power technology 
+2103;"Fuel Technology";0.8040891921250699;http://skos.um.es/unesco6/3303;Chemical technology and engineering 
+2104;"Nuclear Energy and Engineering";0.8190453672458947;http://skos.um.es/unesco6/3320;Nuclear technology 
+2105;"Renewable Energy";0.7776291774497943;http://skos.um.es/unesco6/531205;Energy 
+2200;"General Engineering";0.7492275710696478;http://skos.um.es/unesco6/3319;Naval Technology
+2201;"Engineering (miscellaneous)";0.7491761444478554;http://skos.um.es/unesco6/3303;Chemical technology and engineering 
+2202;"Aerospace Engineering";0.8409223198570038;http://skos.um.es/unesco6/3324;Space Technology 
+2203;"Automotive Engineering";0.6467808493347422;http://skos.um.es/unesco6/3317;motor vehicle technology
+2204;"Biomedical Engineering";0.7912027612992957;http://skos.um.es/unesco6/3301;Aeronautical technology and engineering 
+2205;"Civil and Structural Engineering";0.9042343906341761;http://skos.um.es/unesco6/330532;Structural engineering
+2206;"Computational Mechanics";0.7407974626197488;http://skos.um.es/unesco6/2205;Mechanics
+2207;"Control and Systems Engineering";0.8746769468509086;http://skos.um.es/unesco6/331102;Control engineering
+2208;"Electrical and Electronic Engineering";0.9075698257343652;http://skos.um.es/unesco6/3307;Electronic Technology 
+2209;"Industrial and Manufacturing Engineering";0.8639721140526119;http://skos.um.es/unesco6/3310;Industrial Technology 
+2210;"Mechanical Engineering";0.8884563580933804;http://skos.um.es/unesco6/3313;Mechanical Engineering and Technology
+2211;"Mechanics of Materials";0.7506659794126405;http://skos.um.es/unesco6/2205;Mechanics
+2212;"Ocean Engineering";0.7514409608573366;http://skos.um.es/unesco6/3301;Aeronautical technology and engineering 
+2213;"Safety";0.612240821174277;http://skos.um.es/unesco6/221204;Fields
+2214;"Media Technology";0.8243598536239857;http://skos.um.es/unesco6/3308;Environmental technology and enviromental
+2215;"Building and Construction";0.999993426666166;http://skos.um.es/unesco6/531203;Construction 
+2216;"Architecture ";1.0000000000000036;http://skos.um.es/unesco6/330406;Computer architecture 
+2300;"General Environmental Science";0.6812900040720224;http://skos.um.es/unesco6/240115;General Zoology
+2301;"Environmental Science (miscellaneous)";0.6763027313477334;http://skos.um.es/unesco6/241713;Plant ecology
+2302;"Ecological Modelling";0.6949209115152685;http://skos.um.es/unesco6/530202;Econometric models
+2303;"Ecology";0.8043205856115064;http://skos.um.es/unesco6/240106;Animal ecology
+2304;"Environmental Chemistry";0.7201773842806742;http://skos.um.es/unesco6/23;Chemistry
+2305;"Environmental Engineering";1.0000000000000053;http://skos.um.es/unesco6/3308;Environmental technology and enviromental
+2306;"Global and Planetary Change";0.6926524666950163;http://skos.um.es/unesco6/120212;Global Analysis
+2307;"Health";1.0000000000000024;http://skos.um.es/unesco6/531207;Health
+2308;"Management;1.000000000000004;http://skos.um.es/unesco6/310604;Management
+2309;"Nature and Landscape Conservation";0.6616981861989888;http://skos.um.es/unesco6/330913;Food preservation
+2310;"Pollution";0.7802912227882429;http://skos.um.es/unesco6/330804;Pollution engineering
+2311;"Waste Management and Disposal";0.7505287281477862;http://skos.um.es/unesco6/310604;Management
+2312;"Water Science and Technology";0.792115327785371;http://skos.um.es/unesco6/590214;Science and technology policy
+2400;"General Immunology and Microbiology";0.6872088848023912;http://skos.um.es/unesco6/2412;Immunology 
+2401;"Immunology and Microbiology (miscellaneous) ";0.7003345030423979;http://skos.um.es/unesco6/2412;Immunology 
+2402;"Applied Microbiology and Biotechnology";0.8296493849506419;http://skos.um.es/unesco6/2414;Microbiology 
+2403;"Immunology";1.0000000000000044;http://skos.um.es/unesco6/2412;Immunology 
+2404;"Microbiology";1.000000000000002;http://skos.um.es/unesco6/2414;Microbiology 
+2405;"Parasitology";0.0;http://skos.um.es/unesco6/550399;Other (specify)
+2406;"Virology";1.000000000000003;http://skos.um.es/unesco6/2420;Virology 
+2500;"General Materials Science";0.6472764680497078;http://skos.um.es/unesco6/33;Technological Sciences
+2501;"Materials Science (miscellaneous)";0.6656534505676526;http://skos.um.es/unesco6/24;Life Sciences
+2502;"Biomaterials";0.0;http://skos.um.es/unesco6/550399;Other (specify)
+2503;"Ceramics and Composites";0.7721152742255262;http://skos.um.es/unesco6/331203;Ceramics
+2504;"Electronic";0.7215540860534543;http://skos.um.es/unesco6/3307;Electronic Technology 
+2505;"Materials Chemistry";0.7511813339226414;http://skos.um.es/unesco6/332605;Synthetic textiles 
+2506;"Metals and Alloys";0.9999959454846364;http://skos.um.es/unesco6/221101;Alloys
+2507;"Polymers and Plastics";0.7244620487516071;http://skos.um.es/unesco6/331210;Plastics 
+2508;"Surfaces";1.000000000000003;http://skos.um.es/unesco6/221128;Surfaces
+2600;"General Mathematics";0.7776226056214148;http://skos.um.es/unesco6/12;Mathematics
+2601;"Mathematics (miscellaneous)";0.7152751486011837;http://skos.um.es/unesco6/12;Mathematics
+2602;"Algebra and Number Theory";0.8884842193836356;http://skos.um.es/unesco6/120502;Analytic number theory
+2603;"Analysis";1.0000000000000062;http://skos.um.es/unesco6/610306;Psychoanalysis 
+2604;"Applied Mathematics";0.7061291969262398;http://skos.um.es/unesco6/120802;Analytic probability theory
+2605;"Computational Mathematics";0.7475879851831703;http://skos.um.es/unesco6/12;Mathematics
+2606;"Control and Optimization";0.7477406718035201;http://skos.um.es/unesco6/310501;Controls
+2607;"Discrete Mathematics and Combinatorics";0.7800176873788501;http://skos.um.es/unesco6/12;Mathematics
+2608;"Geometry and Topology";0.8349584398750143;http://skos.um.es/unesco6/1204;Geometry
+2609;"Logic";1.0000000000000024;http://skos.um.es/unesco6/11;Logic
+2610;"Mathematical Physics";0.7524904390632052;http://skos.um.es/unesco6/22;Physics
+2611;"Modelling and Simulation";0.833205166586376;http://skos.um.es/unesco6/120326;Simulation
+2612;"Numerical Analysis";1.000000000000003;http://skos.um.es/unesco6/1206;Numerical Analysis
+2613;"Statistics and Probability";0.7925666528119283;http://skos.um.es/unesco6/110403;Probability
+2614;"Theoretical Computer Science";0.6495031941745232;http://skos.um.es/unesco6/120313;Digital computing
+2700;"General Medicine";1.0000000000000038;http://skos.um.es/unesco6/310904;Internal medicine 
+2701;"Medicine (miscellaneous)";0.671087651753526;http://skos.um.es/unesco6/3204;Occupational medicine
+2702;"Anatomy";1.0000000000000042;http://skos.um.es/unesco6/310901;Anatomy 
+2703;"Anesthesiology and Pain Medicine";0.7732766763457425;http://skos.um.es/unesco6/241102;Anesthesiology
+2704;"Biochemistry";1.000000000000004;http://skos.um.es/unesco6/2302;Biochemistry
+2705;"Cardiology and Cardiovascular Medicine";0.8415204980532844;http://skos.um.es/unesco6/320501;Cardiology 
+2706;"Critical Care and Intensive Care Medicine";0.560022428135571;http://skos.um.es/unesco6/531003;International aid
+2707;"Complementary and alternative medicine";0.4472180582205666;http://skos.um.es/unesco6/320912;Synthetic drugs
+2708;"Dermatology";1.0000000000000038;http://skos.um.es/unesco6/320106;Dermatology
+2709;"Drug guides";0.6831181911967921;http://skos.um.es/unesco6/320908;Preparation of drugs
+2710;"Embryology";1.0000000000000047;http://skos.um.es/unesco6/240901;Embryology
+2711;"Emergency Medicine";0.6528501134336094;http://skos.um.es/unesco6/310904;Internal medicine 
+2712;"Endocrinology";1.0000000000000009;http://skos.um.es/unesco6/320502;Endocrinology
+2713;"Epidemiology";1.0000000000000058;http://skos.um.es/unesco6/3202;Epidemiology 
+2714;"Family Practice";0.4332549589208874;http://skos.um.es/unesco6/520609;Sex
+2715;"Gastroenterology";0.626554609367053;http://skos.um.es/unesco6/320504;Haematology 
+2716;"Genetics(clinical)";0.9999995635893012;http://skos.um.es/unesco6/320102;Clinical Genetics 
+2717;"Geriatrics and Gerontology";0.9999918882047109;http://skos.um.es/unesco6/320107;Geriatrics 
+2718;"Health Informatics";0.7629084409510508;http://skos.um.es/unesco6/120317;Informatics
+2719;"Health Policy";1.0000000000000027;http://skos.um.es/unesco6/590210;Health policy
+2720;"Hematology";1.0000000000000024;http://skos.um.es/unesco6/320504;Haematology 
+2721;"Hepatology";0.0;http://skos.um.es/unesco6/550399;Other (specify)
+2722;"Histology";0.8590249788526072;http://skos.um.es/unesco6/240110;Animal histology
+2723;"Immunology and Allergy";0.8085827952430261;http://skos.um.es/unesco6/2412;Immunology 
+2724;"Internal Medicine";1.0000000000000038;http://skos.um.es/unesco6/310904;Internal medicine 
+2725;"Infectious Diseases";1.0000000000000053;http://skos.um.es/unesco6/320505;Infectious diseases 
+2726;"Microbiology (medical)";0.7795149879668771;http://skos.um.es/unesco6/2414;Microbiology 
+2727;"Nephrology";1.0000000000000029;http://skos.um.es/unesco6/320506;Nephrology
+2728;"Clinical Neurology";1.0000000000000024;http://skos.um.es/unesco6/320507;Neurology
+2729;"Obstetrics and Gynaecology";0.8275910204221778;http://skos.um.es/unesco6/320108;Gynaecology
+2730;"Oncology";1.0000000000000073;http://skos.um.es/unesco6/320713;Oncology 
+2731;"Ophthalmology";1.0000000000000036;http://skos.um.es/unesco6/320109;Ophthalmology
+2732;"Orthopedics and Sports Medicine";0.7097095253047003;http://skos.um.es/unesco6/321310;Orthopaedic surgery
+2733;"Otorhinolaryngology";0.5585576101382398;http://skos.um.es/unesco6/320504;Haematology 
+2734;"Pathology and Forensic Medicine";0.7908034633662859;http://skos.um.es/unesco6/310907;Pathology 
+2735;"Pediatrics";1.0000000000000069;http://skos.um.es/unesco6/320110;Pediatrics
+2736;"Pharmacology (medical)";0.7987888574109103;http://skos.um.es/unesco6/310908;Pharmacology 
+2737;"Physiology (medical)";0.7642208675166547;http://skos.um.es/unesco6/241103;Cardio-vascular physiology
+2738;"Psychiatry and Mental health";0.7592191129543512;http://skos.um.es/unesco6/3211;Psychiatry 
+2739;"Public Health";1.0000000000000062;http://skos.um.es/unesco6/3212;Public health
+2740;"Pulmonary and Respiratory Medicine";0.6824353915396567;http://skos.um.es/unesco6/320508;Pulmonary diseases
+2741;"Radiology Nuclear Medicine and imaging";0.7353003499297339;http://skos.um.es/unesco6/320111;Radiology
+2742;"Rehabilitation";1.0000000000000056;http://skos.um.es/unesco6/610308;Rehabilitation
+2743;"Reproductive Medicine";0.6567330172340946;http://skos.um.es/unesco6/3204;Occupational medicine
+2744;"Reviews and References";0.6822996694621435;http://skos.um.es/unesco6/520405;Sources of observation
+2745;"Rheumatology";1.0000000000000042;http://skos.um.es/unesco6/320509;Rheumatology
+2746;"Surgery";1.0000000000000042;http://skos.um.es/unesco6/310910;Surgery 
+2747;"Transplantation";0.8904207948797846;http://skos.um.es/unesco6/241208;Organ transplantation
+2748;"Urology";1.0000000000000053;http://skos.um.es/unesco6/321316;Urology
+2800;"General Neuroscience";0.7558681934768785;http://skos.um.es/unesco6/2490;Neurosciences
+2801;"Neuroscience (miscellaneous)";0.7471487817325544;http://skos.um.es/unesco6/2490;Neurosciences
+2802;"Behavioral Neuroscience";0.7724282800287436;http://skos.um.es/unesco6/2490;Neurosciences
+2803;"Biological Psychiatry";0.771354536311693;http://skos.um.es/unesco6/610104;Psychopathology 
+2804;"Cellular and Molecular Neuroscience";0.6479465106190864;http://skos.um.es/unesco6/2490;Neurosciences
+2805;"Cognitive Neuroscience";0.6505786291500123;http://skos.um.es/unesco6/120408;Foundations
+2806;"Developmental Neuroscience";0.7701882662503666;http://skos.um.es/unesco6/2490;Neurosciences
+2807;"Endocrine and Autonomic Systems";0.7374327795681864;http://skos.um.es/unesco6/241104;Endocrine physiology
+2808;"Neurology";1.0000000000000036;http://skos.um.es/unesco6/320507;Neurology
+2809;"Sensory Systems";0.7524147424618716;http://skos.um.es/unesco6/330516;Hyperstatic systems
+2900;"General Nursing";0.681624191535973;http://skos.um.es/unesco6/240115;General Zoology
+2901;"Nursing (miscellaneous)";0.4185760855482581;http://skos.um.es/unesco6/310412;Selection
+2902;"Advanced and Specialised Nursing";0.4480337031043121;http://skos.um.es/unesco6/580103;Curriculum development
+2903;"Assessment and Diagnosis";0.6663609781705992;http://skos.um.es/unesco6/720104;Theory of judgement
+2904;"Care Planning";0.7067341610726425;http://skos.um.es/unesco6/331004;Maintenance engineering 
+2905;"Community and Home Care";0.7014117974361164;http://skos.um.es/unesco6/630903;Family, kinship
+2906;"Critical Care";0.6329136300512301;http://skos.um.es/unesco6/531003;International aid
+2907;"Emergency";0.5247785483456261;http://skos.um.es/unesco6/331309;Gears
+2908;"Fundamentals and skills";0.7267131882270336;http://skos.um.es/unesco6/2512;Science space (2104 2102 3324)
+2909;"Gerontology";1.000000000000004;http://skos.um.es/unesco6/320107;Geriatrics 
+2910;"Issues";0.8768400830398226;http://skos.um.es/unesco6/120222;Series, summability
+2911;"Leadership and Management";0.7439917794785326;http://skos.um.es/unesco6/611412;Leadership
+2912;"LPN and LVN";0.5047029265415082;http://skos.um.es/unesco6/310404;Care and management
+2913;"Maternity and Midwifery";0.4738096873364518;http://skos.um.es/unesco6/330512;Heavy constructions
+2914;"Medical–Surgical";0.726426933312948;http://skos.um.es/unesco6/320404;Rehabilitation (medical)
+2915;"Nurse Assisting";0.4863287816731297;http://skos.um.es/unesco6/310501;Controls
+2916;"Nutrition and Dietetics";0.7760456893294362;http://skos.um.es/unesco6/310406;Nutrition 
+2917;"Oncology(nursing)";0.795290381666827;http://skos.um.es/unesco6/320713;Oncology 
+2919;"Pediatrics";1.0000000000000069;http://skos.um.es/unesco6/320110;Pediatrics
+2920;"Pharmacology (nursing)";0.779966952904046;http://skos.um.es/unesco6/310908;Pharmacology 
+2921;"Phychiatric Mental Health";0.4584273806570405;http://skos.um.es/unesco6/611302;Behavioral response
+2922;"Research and Theory";0.7979936217398836;http://skos.um.es/unesco6/110211;Proff theory
+2923;"Review and Exam Preparation";0.5977490214567305;http://skos.um.es/unesco6/580302;Training of teachers
+3000;"General Pharmacology";0.7618944780661094;http://skos.um.es/unesco6/310908;Pharmacology 
+3001;"Pharmacology;1.0000000000000069;http://skos.um.es/unesco6/310908;Pharmacology 
+3002;"Drug Discovery";0.7045075144901867;http://skos.um.es/unesco6/320802;Action of drugs 
+3003;"Pharmaceutical Science";0.677034470320341;http://skos.um.es/unesco6/3109;Veterinary sciences 
+3004;"Pharmacology";1.0000000000000069;http://skos.um.es/unesco6/310908;Pharmacology 
+3005;"Toxicology";1.000000000000007;http://skos.um.es/unesco6/3214;Toxicology
+3100;"General Physics and Astronomy";0.6269599716175555;http://skos.um.es/unesco6/251112;Soil physics
+3101;"Physics and Astronomy (miscellaneous)";0.6401191373084965;http://skos.um.es/unesco6/22;Physics
+3102;"Acoustics and Ultrasonics";0.7663939321223213;http://skos.um.es/unesco6/2201;Acoustics
+3103;"Astronomy and Astrophysics";1.000000000000005;http://skos.um.es/unesco6/21;Astronomy and astrophysics
+3104;"Condensed Matter Physics";0.7097082613506417;http://skos.um.es/unesco6/22;Physics
+3105;"Instrumentation";0.8196941884907063;http://skos.um.es/unesco6/330113;Instrumentation (aviation)
+3106;"Nuclear and High Energy Physics";0.857178938316324;http://skos.um.es/unesco6/220807;Particle physics
+3107;"Atomic and Molecular Physics";0.9291057356187006;http://skos.um.es/unesco6/2206;Molecular physics
+3108;"Radiation";1.000000000000004;http://skos.um.es/unesco6/220922;Ultra-violet radiation
+3109;"Statistical and Nonlinear Physics";0.6686184013347283;http://skos.um.es/unesco6/221401;Constants (physics)
+3110;"Surfaces and Interfaces";0.8282680913736142;http://skos.um.es/unesco6/221114;Interfaces
+3200;"General Psychology";1.0000000000000036;http://skos.um.es/unesco6/6107;General psychology
+3201;"Psychology (miscellaneous)";0.7916647112553042;http://skos.um.es/unesco6/61;Psychology
+3202;"Applied Psychology";0.5441600505065205;http://skos.um.es/unesco6/6104;Educational psychology
+3203;"Clinical Psychology";1.0000000000000009;http://skos.um.es/unesco6/320105;Clinical psychology 
+3204;"Developmental and Educational Psychology";0.8821717079931601;http://skos.um.es/unesco6/6104;Educational psychology
+3205;"Experimental and Cognitive Psychology";0.711778680461003;http://skos.um.es/unesco6/580105;Experimental pedagogy
+3206;"Neuropsychology and Physiological Psychology";0.999986722513859;http://skos.um.es/unesco6/610610;Physiological psychology
+3207;"Social Psychology";1.000000000000004;http://skos.um.es/unesco6/6114;Social psychology 
+3300;"General Social Sciences";0.6414671829980635;http://skos.um.es/unesco6/590606;Social conflicts 
+3301;"Social Sciences (miscellaneous)";0.609491913526109;http://skos.um.es/unesco6/33;Technological Sciences
+3302;"Archaeology";1.0000000000000042;http://skos.um.es/unesco6/550501;Archaeology
+3303;"Development";1.000000000000006;http://skos.um.es/unesco6/630706;socio-economic development
+3304;"Education";1.0000000000000042;http://skos.um.es/unesco6/120310;Computer-assisted instruction
+3305;"Geography";1.000000000000004;http://skos.um.es/unesco6/2505;Geography 
+3306;"Health(social science)";0.7431606805720526;http://skos.um.es/unesco6/531207;Health
+3307;"Human Factors and Ergonomics";0.7917880392339232;http://skos.um.es/unesco6/241007;Human genetics
+3308;"Law";1.0000000000000042;http://skos.um.es/unesco6/560203;Jurisprudence
+3309;"Library and Information Sciences";0.6612536217723199;http://skos.um.es/unesco6/1203;Computer Sciences
+3310;"Linguistics and Language";0.8722038007275124;http://skos.um.es/unesco6/550510;Philology 
+3311;"Safety Research";0.6661786388578439;http://skos.um.es/unesco6/531210;Research and development 
+3312;"Sociology and Political Science";0.8176647929292507;http://skos.um.es/unesco6/63;Sociology
+3313;"Transportation";1.0000000000000042;http://skos.um.es/unesco6/332907;Transportation 
+3314;"Anthropology";1.0000000000000073;http://skos.um.es/unesco6/51;Anthropology 
+3315;"Communication";1.0000000000000047;http://skos.um.es/unesco6/332902;Communications
+3316;"Cultural Studies";0.7850417785443562;http://skos.um.es/unesco6/221204;Fields
+3317;"Demography";1.0000000000000013;http://skos.um.es/unesco6/241005;Human ecology
+3318;"Gender Studies";0.7845172391188867;http://skos.um.es/unesco6/520609;Sex
+3319;"Life-span and Life-course Studies";1.0000000000000062;http://skos.um.es/unesco6/221204;Fields
+3320;"Political Science and International Relations";0.8836459326677814;http://skos.um.es/unesco6/590103;International politics
+3321;"Public Administration";1.0000000000000027;http://skos.um.es/unesco6/5909;Public administration
+3322;"Urban Studies";0.7287573841029451;http://skos.um.es/unesco6/221204;Fields
+3400;"General Veterinary";0.6579977335278967;http://skos.um.es/unesco6/5202;General demography
+3401;"Veterinary (miscalleneous)";0.7359385336017502;http://skos.um.es/unesco6/3109;Veterinary sciences 
+3402;"Equine";1.000000000000002;http://skos.um.es/unesco6/310405;Equine
+3403;"Food Animals";0.8214686066094009;http://skos.um.es/unesco6/320608;Nutrients
+3404;"Small Animals";1.0000000000000033;http://skos.um.es/unesco6/240112;Animal parasitology
+3500;"General Dentistry";0.6459507294625902;http://skos.um.es/unesco6/121005;General topology
+3501;"Dentistry (miscellaneous)";0.5138863943035897;http://skos.um.es/unesco6/331103;Dental instruments 
+3504;"Oral Surgery";0.8277869045206582;http://skos.um.es/unesco6/310910;Surgery 
+3505;"Orthodontics";0.5068082466060944;http://skos.um.es/unesco6/570110;Speech pathology and correction 
+3506;"Periodontics";0.5088927138397035;http://skos.um.es/unesco6/6108;Geriatric psychology 
+3600;"General Health Professions";0.6605449276435027;http://skos.um.es/unesco6/320403;Occupational health
+3601;"Health Professions (miscellaneous)";0.6645024776526265;http://skos.um.es/unesco6/320403;Occupational health
+3602;"Chiropractics";0.4359338755366985;http://skos.um.es/unesco6/220990;Digital treatment. Images
+3603;"Complementary and Manual Therapy";0.5514146809511005;http://skos.um.es/unesco6/611305;Drug therapy
+3604;"Emergency Medical Services";0.6236165184082321;http://skos.um.es/unesco6/3314;Medical technology 
+3605;"Health Information Management";0.645723652840658;http://skos.um.es/unesco6/310604;Management
+3606;"Medical Assisting and Transcription";0.6072809814969526;http://skos.um.es/unesco6/240207;Medical anthropology
+3607;"Medical Laboratory Technology";0.8518546826899551;http://skos.um.es/unesco6/3314;Medical technology 
+3609;"Occupational Therapy";0.5134466594335478;http://skos.um.es/unesco6/611305;Drug therapy
+3610;"Optometry";1.0000000000000047;http://skos.um.es/unesco6/220915;Optometry
+3611;"Pharmacy";0.5379879756481216;http://skos.um.es/unesco6/2390;Pharmaceutical chemistry
+3612;"Physical Therapy";1.0000000000000007;http://skos.um.es/unesco6/321311;Physiotherapy
+3613;"Podiatry";0.6286903684758528;http://skos.um.es/unesco6/3204;Occupational medicine
+3614;"Radiological and Ultrasound Technology";0.6689597719830029;http://skos.um.es/unesco6/3301;Aeronautical technology and engineering 
+3616;"Speech and Hearing";0.7135711001831123;http://skos.um.es/unesco6/590602;Languages
