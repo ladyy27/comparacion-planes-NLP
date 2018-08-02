@@ -1,0 +1,7 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+text = "Sistemas Basados en el Conocimiento es una asignatura que se imparte en décimo ciclo de la titulación de Ingeniería en Sistemas Informáticos y Computación, ofertada por la Universidad Técnica Particular de Loja. La asignatura introduce al profesional en formación en una de las áreas más interesantes, emergentes y prometedoras que ha surgido en nuestra era actual de la sociedad del conocimiento, estructuras de conocimiento abierto y las tecnologías de la Web Semántica. Hoy en día, es imprescindible que nuestros ingenieros, adquieran competencias clave para capturar, modelar, gestionar y explotar datos y conocimiento que en grandes cantidades se generan y están disponibles en la Web y que con diferentes fines pueden ser aprovechados en la práctica laboral, académica y empresarial. En el presente componente académico, se cubren aspectos como: la creación de esquemas de representación de conocimiento y datos, la descripción de recursos y objetos del mundo real mediante esos modelos, la publicación de datos enlazados en la Web, así como su posterior aprovechamiento para efectos de recuperar datos y generar nuevo conocimiento. Cuando un estudiante finalice este componente habrá adquirido la capacidad para identificar áreas y usos potenciales de las tecnologías de la web semántica, modelar dominios de conocimiento e implementar modelos procesables por máquinas."
+
+summ = summarize(text[, sentence_count=3, language='spanish'])
+
+print sum

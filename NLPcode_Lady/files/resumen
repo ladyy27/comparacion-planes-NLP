@@ -1,0 +1,13 @@
+El presente trabajo es el resultado de un proceso de investigación para determinar la factibilidad de la integración de las tareas comunes del Procesamiento de Lenguaje Natural (PLN) en una arquitectura de microservicios. La propuesta arquitectónica serviría como marco de referencia para la construcción de un aplicativo que permita analizar semánticamente los contenidos de textos proporcionados y consecuentemente calcular el grado de similitud entre dichos textos. En base a esto, se requiere identificar las tareas propias del proceso PLN y convertir a las mismas en microservicios que se comuniquen entre sí, esto resultaría en un ambiente de interacción que beneficie al aplicativo con un alto rendimiento y aprovechamiento de tecnologías existentes.
+
+Según (Liddy, 2001) el Procesamiento del Lenguaje Natural o Natural Language Processing por sus siglas en inglés, es un campo de Inteligencia Artificial que abarca una gama de técnicas computacionales que consisten en analizar y representar textos que se producen de forma natural en uno o más niveles de análisis lingüístico con el fin de lograr un procesamiento del lenguaje similar al humano para una variedad de tareas o aplicaciones como la traducción automática, tutores inteligentes o sentiment analysis, entre otros. 
+Por otro lado, los Microservicios son considerados como un estilo arquitectónico cuyo enfoque consiste en desarrollar una aplicación entera como un conjunto de servicios pequeños.  Estos servicios están orientados al rendimiento ya que tienen un alto grado de modularidad y una menor contención entre ellos debido a que se construyen en base a funcionalidades específicas de las aplicaciones y con diferentes lenguajes de programación, se implementan y gestionan de manera independiente y utilizan diferentes tecnologías de almacenamiento de datos (Lewis & Fowler, 2014).
+
+
+A Term Frequency is a count of how many times a word occurs in a given document (synonymous with bag of words). The Inverse Document Frequency is the the number of times a word occurs in a corpus of documents. tf-idf is used to weight words according to how important they are. Words that are used frequently in many documents will have a lower weighting while infrequent ones will have a higher weighting. Below is an explanation from Wikipedia.
+
+A Term Frequency is a count of how many times a word occurs in a given document (synonymous with bag of words).  The Inverse Document Frequency is the the number of times a word occurs in a corpus of documents.  tf-idf is used to weight words according to how important they are.
+
+
+
+Authorization: Simple sim8WW7IzocM1ABZOZPzLLrSFQ01

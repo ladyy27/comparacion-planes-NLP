@@ -1,0 +1,36 @@
+
+#Tokens de una oracion
+SELECT * FROM tripletas WHERE p = "http://data.utpl.edu.ec/vutpl/vocabulary/data" AND s IN
+(SELECT o FROM tripletas WHERE p = "http://data.utpl.edu.ec/vutpl/vocabulary/hasToken"
+AND s IN 
+(SELECT s FROM tripletas WHERE p="http://data.utpl.edu.ec/vutpl/vocabulary/sentenceId" AND o="1"))
+
+
+#Contar tokens de la oracion con sentenceId = ""
+SELECT s, COUNT(*) FROM tripletas WHERE p = "http://data.utpl.edu.ec/vutpl/vocabulary/hasToken"
+AND s IN (SELECT s FROM tripletas WHERE p="http://data.utpl.edu.ec/vutpl/vocabulary/sentenceId" AND o="1") 
+GROUP BY s
+
+#Contar tokens de cada oracion
+SELECT s, COUNT(*) FROM tripletas WHERE p = "http://data.utpl.edu.ec/vutpl/vocabulary/hasToken"
+AND s IN (SELECT s FROM tripletas WHERE p="http://data.utpl.edu.ec/vutpl/vocabulary/sentenceId") 
+GROUP BY s
+
+#Sacar data de una oracion
+SELECT * FROM tripletas WHERE p = "http://data.utpl.edu.ec/vutpl/vocabulary/dataSentence" AND s IN
+(SELECT s FROM tripletas WHERE p ="http://data.utpl.edu.ec/vutpl/vocabulary/sentenceId" AND o = "1")
+
+
+
+Green&apos;s function methods
+Kirchhoff's Law
+
+CAPÍTULO 9. ANOMALÍAS CONGÉNITAS Y DIAGNÓSTICO PRENATAL
+
+•      Explica las diferentes fases de procesamiento de un tejido para su observación al microscopio óptico y menciona las técnicas histológicas para identificación de tejidos epiteliales.
+
+Interpreta la estructura histológica, función y organización de los componentes de la piel y sus faneras
+
+Interpreta la estructura histológica, función y organización de los componentes de la piel y sus faneras
+Moore&apos;s Law
+Young&apos;s modulus
